@@ -82,34 +82,17 @@ Started my journey building scalable backend systems and REST APIs using Java an
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manjit4678&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manjit4678&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjit4678&theme=tokyonight&hide_border=true&layout=compact" height="160"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Manjit4678&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Manjit4678&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manjit4678&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/manjittoppo">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Manjit4678&icon=5&color=6"/>
-</p>
+[![](https://visitcount.itsvg.in/api?id=Manjit4678&icon=0&color=0)](https://visitcount.itsvg.in)  
 
 ---
 
